@@ -1,0 +1,16 @@
+{
+  "name": "psman",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix ui run dev",
+    "build": "npm --prefix ui run build",
+    "typecheck": "npm --prefix ui run typecheck",
+    "preview": "npm --prefix ui run preview",
+    "tauri": "node ../../../app-kit/scripts/tauri-dev.mjs"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.11.4"
+  }
+}

@@ -1,0 +1,17 @@
+# Rust
+/target
+Cargo.lock
+
+# Node.js
+/node_modules
+/dist
+
+# IDE
+/.idea
+.vscode
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

@@ -1,0 +1,8 @@
+[package]
+name = "color"
+version = "0.1.0"
+edition = "2024"
+description = "ToolBox 共享颜色与格式化库 — ANSI 颜色、CJK 宽度、对齐工具"
+
+[dependencies]
+unicode-width = "0.2"
