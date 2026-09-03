@@ -15,3 +15,5 @@ Cargo.lock
 
 # Windows
 Thumbs.db
+# UI
+/ui/node_modules/
